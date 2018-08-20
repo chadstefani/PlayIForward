@@ -1,2 +1,2 @@
 "# PlayItForward" 
-https://github.com/chadstefani/PlayItForward.git
+https://github.com/chadstefani/PlayIForward.git
